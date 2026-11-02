@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="231" viewBox="0 0 1080 231" role="img" aria-labelledby="title">
+<title id="title">KECHAA: conceptual task boundary around an AI agent and its permitted tool use. Research prototype with experimental Linux containment.</title>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#263b2e}.mono{font-family:'Courier New',monospace;letter-spacing:1.2px}.serif{font-family:Georgia,'Times New Roman',serif;font-style:italic}.muted{fill:#64705e}.green{fill:#365f46}.accent{fill:#a24b2e}</style>
+<rect x=".5" y=".5" width="1079" height="230" rx="4" fill="#f4f1e8" stroke="#bbc6ae"/>
+
+<text x="32" y="37" class="mono muted" font-size="12">02 / BEYOND THE PROMPT</text>
+<text x="29" y="120" class="serif green" font-size="73" letter-spacing="-2">Contain.</text>
+<text x="34" y="156" font-size="19">KECHAA</text>
+<text x="34" y="200" class="mono muted" font-size="11">CAN IT STAY INSIDE ITS TASK?</text>
+<path d="M367 28v176" stroke="#bbc6ae"/>
+<g transform="translate(412 37)">
+<rect x="12" y="3" width="490" height="146" rx="73" fill="#e0e6d5" stroke="#365f46" stroke-width="1.5"/>
+<rect x="159" y="-7" width="195" height="20" fill="#f4f1e8"/><text x="257" y="8" text-anchor="middle" class="mono green" font-size="11">APPROVED TASK</text>
+<circle cx="119" cy="76" r="35" fill="#f4f1e8" stroke="#bbc6ae"/>
+<path d="M119 52v48m-24-24h48m-41-17 34 34m-34 0 34-34" stroke="#a24b2e" stroke-width="2"/>
+<path d="M156 76h73m-8-5 8 5-8 5" fill="none" stroke="#365f46" stroke-width="1.5"/>
+<rect x="231" y="51" width="179" height="49" rx="3" fill="#fcfaf3" stroke="#365f46"/>
+<text x="320" y="81" text-anchor="middle" font-size="16">Permitted tool use</text>
+<path d="M411 76h137" stroke="#a24b2e" stroke-dasharray="4 5"/>
+<circle cx="502" cy="76" r="16" fill="#f4f1e8" stroke="#a24b2e"/>
+<path d="m496 70 12 12m-12 0 12-12" stroke="#a24b2e" stroke-width="2"/>
+<text x="256" y="128" text-anchor="middle" class="mono muted" font-size="10">EXPERIMENTAL LINUX CONTAINMENT</text>
+<text x="547" y="110" class="mono muted" text-anchor="middle" font-size="9">OUTSIDE</text>
+<text x="547" y="123" class="mono muted" text-anchor="middle" font-size="9">SCOPE</text>
+</g>
+</svg>

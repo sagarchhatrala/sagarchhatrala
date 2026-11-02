@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="180" viewBox="0 0 1080 180" role="img" aria-labelledby="title">
+<title id="title">Good work starts with a conversation. Founders, researchers, conference organisers, and curious engineers are welcome.</title>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#263b2e}.mono{font-family:'Courier New',monospace;letter-spacing:1.2px}.serif{font-family:Georgia,'Times New Roman',serif;font-style:italic}.muted{fill:#64705e}.green{fill:#365f46}.accent{fill:#a24b2e}</style>
+<rect x=".5" y=".5" width="1079" height="179" rx="4" fill="#f4f1e8" stroke="#bbc6ae"/>
+
+<path d="M31 31h21m-10-10v20" stroke="#a24b2e" stroke-width="2"/>
+<text x="73" y="38" class="mono muted" font-size="11">A QUESTION, A PRODUCT, A POSSIBILITY.</text>
+<text x="31" y="107" class="serif green" font-size="54" letter-spacing="-1.5">Good work starts with a conversation.</text>
+<text x="1030" y="111" class="green" text-anchor="end" font-size="44">↗</text>
+<text x="33" y="148" class="muted" font-size="15">Founders · Researchers · Conference organisers · Curious engineers</text>
+</svg>
